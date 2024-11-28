@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<empresa>
+      <empleado>
+    
+                                <primernombre>Samuel</primernombre>
+      
+                                 <apellido>Alvarez</apellido> 
+      
+                                <numerocontacto>673829420</numerocontacto>
+      
+                                <correoelectronico>samuel.alvarez@iesdonana.org</correoelectronico>
+     
+                               <direccion>
+                               
+                                           <ciudad>Sanlúcar de Barrameda</ciudad>
+                                            <estado>Cádiz</estado>
+                                            <CP> 11540</CP>
+                               
+                               
+                               </direccion>
+      
+      </empleado>
+    
+
+</empresa>

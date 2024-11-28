@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<equipos_de_futbol>
+        <equipo>
+           <nombre>Levante</nombre>
+           <ciudad>Valencia</ciudad>
+           <entrenador></entrenador>
+           <jugadores>
+                          <jugador posición="portero">
+                                 <nombre>Javier Jiménez</nombre>
+                                 <nacionalidad>Española</nacionalidad>
+                          </jugador>
+                            <jugador posición="delantero">
+                                 <nombre>Nong</nombre>
+                                 <nacionalidad>Camerunés</nacionalidad>
+                          </jugador>
+            </jugadores>
+        </equipo>
+             <equipo>
+                      <nombre>Real Sociedad</nombre>
+           <ciudad>San Sebastián</ciudad>
+           <entrenador></entrenador>
+           <jugadores>
+                          <jugador posición="portero">
+                                 <nombre>Claudio Bravo</nombre>
+                                 <nacionalidad>Chileno</nacionalidad>
+                          </jugador>
+                            <jugador posición="defensa">
+                                 <nombre>MIkel González</nombre>
+                                 <nacionalidad>Española</nacionalidad>
+                          </jugador>
+            </jugadores>
+        </equipo>
+</equipos_de_futbol>
